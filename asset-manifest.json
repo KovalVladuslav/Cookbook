@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cookbook/static/css/main.95ab332f.chunk.css",
-    "main.js": "/cookbook/static/js/main.41c548e1.chunk.js",
-    "main.js.map": "/cookbook/static/js/main.41c548e1.chunk.js.map",
-    "runtime-main.js": "/cookbook/static/js/runtime-main.cfaa40aa.js",
-    "runtime-main.js.map": "/cookbook/static/js/runtime-main.cfaa40aa.js.map",
-    "static/js/2.71fe41f0.chunk.js": "/cookbook/static/js/2.71fe41f0.chunk.js",
-    "static/js/2.71fe41f0.chunk.js.map": "/cookbook/static/js/2.71fe41f0.chunk.js.map",
-    "index.html": "/cookbook/index.html",
-    "precache-manifest.78019c5752311fdd06df72040763cd19.js": "/cookbook/precache-manifest.78019c5752311fdd06df72040763cd19.js",
-    "service-worker.js": "/cookbook/service-worker.js",
-    "static/css/main.95ab332f.chunk.css.map": "/cookbook/static/css/main.95ab332f.chunk.css.map",
-    "static/js/2.71fe41f0.chunk.js.LICENSE.txt": "/cookbook/static/js/2.71fe41f0.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.95ab332f.chunk.css",
+    "main.js": "/static/js/main.41c548e1.chunk.js",
+    "main.js.map": "/static/js/main.41c548e1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f159a6bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f159a6bc.js.map",
+    "static/js/2.71fe41f0.chunk.js": "/static/js/2.71fe41f0.chunk.js",
+    "static/js/2.71fe41f0.chunk.js.map": "/static/js/2.71fe41f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.86737dd722c24130b7f57c7a41fb7ec9.js": "/precache-manifest.86737dd722c24130b7f57c7a41fb7ec9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.95ab332f.chunk.css.map": "/static/css/main.95ab332f.chunk.css.map",
+    "static/js/2.71fe41f0.chunk.js.LICENSE.txt": "/static/js/2.71fe41f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfaa40aa.js",
+    "static/js/runtime-main.f159a6bc.js",
     "static/js/2.71fe41f0.chunk.js",
     "static/css/main.95ab332f.chunk.css",
     "static/js/main.41c548e1.chunk.js"
